@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * Code for the recording feature.
+ */
+
+include_once 'recording.features.inc';
+include_once 'recording.module.inc';
